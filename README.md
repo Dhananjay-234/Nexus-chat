@@ -62,7 +62,7 @@ chatapp/
 Edit `backend/.env`:
 
 ```env
-SUPABASE_URL=https://ataypyopsgqeqqxqsmvf.supabase.co
+SUPABASE_URL=your_project_url
 SUPABASE_ANON_KEY=your_anon_public_key_here
 SUPABASE_SERVICE_ROLE_KEY=your_service_role_key_here
 JWT_SECRET=change_this_to_a_long_random_string
